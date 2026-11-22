@@ -1,0 +1,7 @@
+opensmile>=2.4
+xgboost>=2.0
+transformers>=4.38,<5
+accelerate>=0.27
+soundfile>=0.12
+
+soxr>=0.3
